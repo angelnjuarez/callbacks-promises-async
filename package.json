@@ -20,5 +20,13 @@
   "license": "MIT",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelnjuarez/callbacks-promises-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angelnjuarez/callbacks-promises-async/issues"
+  },
+  "homepage": "https://github.com/angelnjuarez/callbacks-promises-async#readme"
 }
